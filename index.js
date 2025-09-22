@@ -12,7 +12,7 @@ const ai = new GoogleGenAI({});
 // inisialisasi model AI
 const geminiModels = {
   text: 'gemini-2.5-flash-lite',
-  chat: 'gemini-2.5-pro',
+  chat: 'gemini-2.5-flash',
   image: 'gemini-2.5-flash',
   audio: 'gemini-2.5-flash',
   document: 'gemini-2.5-flash-lite',
